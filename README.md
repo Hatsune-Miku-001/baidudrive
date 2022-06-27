@@ -1,0 +1,2 @@
+# baidudrive
+一个用于百度网盘加速下载的Tampermonkey脚本
